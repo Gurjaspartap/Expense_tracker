@@ -12,3 +12,4 @@ A simple expense tracker application built using React.js.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gurjaspartap/Expense_tracker.git
+![image](https://github.com/user-attachments/assets/a06df67b-004e-4d5a-bac7-2b87fb4058ed)
